@@ -2,7 +2,7 @@ title: I2C-8574
 project: I2C-8574
 designer: John Plocher
 fabricated: yes
-fab_date: 2014-04, 2014-07, 2014-10, 2016-10, 2017-11
+fab_date: 2017-10
 status: released
 release: yes
-tags: [eagle, SPCoast]
+tags: [eagle, SPCoast, IOB]

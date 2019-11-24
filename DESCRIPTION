@@ -1,6 +1,5 @@
-I2C PCF8474-based IO Expander with 4x IO4 connections
+I2C PCF8474-based IO Expander with 4x IOB daughterboard connections
 
-  * 4x IO4 connections
-  * RJ12 or 0.100 pin termination on each IO4 location
-  * per-IO4-port 12v/5v selection
+  * 4x IOB daughterboard connections
   * 3.17" Tyco rail size
+
