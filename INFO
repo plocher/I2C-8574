@@ -3,6 +3,7 @@ project: I2C-8574
 designer: John Plocher
 fabricated: yes
 fab_date: 2017-10
+image_path: I2C-8574-Graphic.png
 status: released
 release: yes
 tags: [eagle, SPCoast, IOB]
